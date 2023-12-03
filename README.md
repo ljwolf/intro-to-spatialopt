@@ -1,4 +1,4 @@
-# Introduction to Spatial Optimisation at Tartu University
+# Introduction to Spatial Optimisation
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljwolf/agile-2023-spatialopt/HEAD)
 
 *Levi John Wolf, University of Bristol *levi.john.wolf@bristol.ac.uk*
@@ -10,11 +10,11 @@
 If you are comfortable with GitHub and `git`, the command-line program, you can download the workshop materials by cloning my repository:
 
 ```sh
-git clone https://github.com/ljwolf/tartu-spatialopt
-cd tartu-spatialopt
+git clone https://github.com/ljwolf/intro-to-spatialopt
+cd intro-to-spatialopt
 ```
 
-If you are not comfortable with GitHub, download the repository to your computer as a zip file from the workshop website. To do this, go to <https://github.com/ljwolf/tartu-spatialopt>, click on the green button labelled "< > Code <i class="fa-regular fa-angle-down"></i>", then click the "<i class="fa-regular fa-file-zipper"></i> Download Zip" option. 
+If you are not comfortable with GitHub, download the repository to your computer as a zip file from the workshop website. To do this, go to <https://github.com/ljwolf/intro-to-spatialopt>, click on the green button labelled "< > Code <i class="fa-regular fa-angle-down"></i>", then click the "<i class="fa-regular fa-file-zipper"></i> Download Zip" option. 
 
 ### Step 2: Install the required Python packages
 
