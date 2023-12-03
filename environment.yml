@@ -1,0 +1,13 @@
+name: spatialopt
+channels:
+  - conda-forge
+  - defaults
+dependencies: 
+  - python=3.11
+  - jupyterlab>3
+  - geopandas>=0.12
+  - shapely>=2
+  - pyogrio
+  - libpysal
+  - spopt
+  - pulp
