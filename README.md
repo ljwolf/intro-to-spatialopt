@@ -1,7 +1,11 @@
 # Introduction to Spatial Optimisation
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ljwolf/agile-2023-spatialopt/HEAD)
 
-*Levi John Wolf, University of Bristol *levi.john.wolf@bristol.ac.uk*
+*Levi John Wolf*
+
+University of Bristol 
+
+levi.john.wolf@bristol.ac.uk
 
 ## Setup
 
