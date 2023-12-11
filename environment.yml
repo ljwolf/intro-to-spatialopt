@@ -1,4 +1,4 @@
-name: spatialopt
+name: spatialopt2
 channels:
   - conda-forge
   - defaults
