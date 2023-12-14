@@ -10,4 +10,6 @@ dependencies:
   - pyogrio
   - libpysal
   - spopt
-  - pulp
+  - pip
+  - pip:
+    - pulp
